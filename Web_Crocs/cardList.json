@@ -1,0 +1,111 @@
+[
+    {
+        "id": "1",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Siren Clog",
+        "price": "2.395.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/208547-2Y2-1_720x.jpg?v=1688538972",
+        "description": "Comfortable"
+    },
+    {
+        "id": "2",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Siren Clog",
+        "price": "2.395.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/208547-001-1_720x.jpg?v=1688538356",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "3",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Printed Clog",
+        "price": "1.595.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/206230-0ZI-1_720x.jpg?v=1687242249",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "4",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Baya Clog",
+        "price": "1.495.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/10126-2V3-1_720x.jpg?v=1687241938",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "5",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Classic Clog",
+        "price": "1.495.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/10001-6WD-1_720x.jpg?v=1687241860",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "6",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Classic Clog",
+        "price": "1.495.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/10001-4NS-1_720x.png?v=1687490600",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "7",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Classic Clog",
+        "price": "1.495.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/10001-1LM-1_720x.jpg?v=1687229759",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "8",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Classic Skull Print Clog",
+        "price": "1.595.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/208993-103-1_720x.jpg?v=1686728931",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "9",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Classic Island Escape Clog",
+        "price": "1.595.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/208940-6WA-1_720x.jpg?v=1686728875",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "10",
+        "quantity": "3",
+        "itemName": "Women's Crocs Baya Platform Printed Clog",
+        "price": "1.995.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/208712-6J1-1_720x.jpg?v=1686728856",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "11",
+        "quantity": "3",
+        "itemName": "Women's Crocs Baya Platform Printed Clog",
+        "price": "1.995.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/208712-0ZI-1_720x.jpg?v=1686728842",
+        "description": "Comfortable"
+    },
+
+    {
+        "id": "12",
+        "quantity": "3",
+        "itemName": "Unisex Crocs Siren Clog",
+        "price": "2.395.000₫",
+        "img": "https://www.crocs.com.vn/cdn/shop/files/208547-6VZ-1_720x.jpg?v=1686728806",
+        "description": "Comfortable"
+    }
+
+    
+]
+
